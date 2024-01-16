@@ -1,0 +1,95 @@
+  @import url('https://fonts.googleapis.com/css2?family=Arimo&family=Chakra+Petch&family=Nunito:ital,wght@0,200;0,400;1,300&display=swap');
+
+  * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Nunito', sans-serif;
+
+  }
+
+
+  /* navbar */
+  .navbar {
+    background-color: white;
+  }
+
+
+
+  .title {
+    font-size: 30px;
+    height: 20px;
+    color: black;
+  }
+
+
+
+  .title:hover {
+    color: rgb(47, 255, 238);
+
+  }
+
+  .h1 {
+    text-transform: capitalize;
+  }
+
+  .positive {
+    color: rgb(47, 255, 238);
+  }
+
+  .nav-btn {
+    border: none !important;
+    font-size: 20px !important;
+    border-radius: 0% !important;
+  }
+
+  .nav-btn:hover {
+    border-bottom: 2px solid black !important;
+  }
+
+  /* common(home and about)  */
+  .img-container {
+    margin-top: 87px !important;
+  }
+
+  .donate-btn {
+    color: black !important;
+    border-radius: 15px !important;
+    border: 2px solid black !important;
+  }
+
+  .donate-btn:hover {
+    color: white !important;
+    background-color: black !important;
+  }
+
+
+  /* home */
+  /* .img-home {
+    height: 700px !important;
+    width: 700px !important;
+    max-width: none !important;
+  } */
+
+
+  /* donate */
+  .img-donation {
+    height: 564px !important;
+  }
+
+  .forM {
+    margin-top: 69px !important;
+  }
+
+  /* footer */
+  .footer {
+    position: sticky;
+    margin-top: 206px;
+    height: 42px;
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-size: 18 px;
+    width: 100%;
+
+  }
