@@ -9,7 +9,7 @@ const Home = () => {
                 strong={"BETTER CAUSE!"}
                 pi={"Striving to make the world"}
                 strongii={"BETTER PLACE"}
-                pii={"for many."}
+                pii={"for many"}
                 btnText={"DONATE NOW"}
                 to={"/donate"}
                 img={"Images/charity2.jpg"}
